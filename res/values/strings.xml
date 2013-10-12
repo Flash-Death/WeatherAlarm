@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather Alarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="SetAlarm">Set Alarm:</string>
+    <string name="CurrentAlarmTime">Current Alarm Time</string>
+    <string name="SetAlarm2">Set Alarm</string>
+    <string name="EnterAlarmTime">Enter Alarm Time</string>
+    <string name="SetNewAlarm">Set New Alarm</string>
+    <string name="TurnOffAlarm">Turn Off Alarm</string>
+    <string name="SetAlarm3">Set Alarm</string>
+    <string name="SetLocation">Set Location</string>
+    <string name="CurrentLocation">Current Location</string>
+    <string name="Set">Set</string>
+    <string name="SetZip">Set Zip</string>
+    <string name="SetZipCode">Set Zip Code</string>
+    <string name="CurrentZipCode">Current Zip Code</string>
+
+</resources>
